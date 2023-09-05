@@ -1,6 +1,6 @@
 # Homework # 1 - Operators, Expressions, Constants, and Data Types (including File IO)
 ## Overview
-This assignment is worth 20 points. Full Collaboration is authorized however all work must be your own and you must understand everything submitted.  You must submit your .cpp file to the D2L dropbox once complete.
+This assignment is worth 20 points. Full collaboration is authorized however all work must be your own and you are responsible for understanding everything submitted.  You must submit your .cpp file to the D2L dropbox once complete.
 
 ## Before you Start
 Ensure that you have read the lessons on [cplusplus.com](https://cplusplus.com/doc/tutorial/)
