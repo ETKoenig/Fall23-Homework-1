@@ -31,8 +31,8 @@ Please enter the number of monthis since your last birthday: 7
 Your name is George P Burdell, and you are 94.5833 years old!
 ```
 ### [IO with files](https://cplusplus.com/doc/tutorial/files/) We want to keep a record of who has used our program (for posterity's sake!). (5 pts)
-- To do this, we will keep a record of all users' names and decimal ages in a file called `history.txt`.  This file will be maintained in teh local directory
+- To do this, we will keep a record of all users' names and decimal ages in a file called `history.txt`.  This file will be maintained in the local directory
 >**Note**
-> You will wabt to append data!
+> You will want to append data!
 - Each line should be formatted `[name]:[decimalAge]`
   
