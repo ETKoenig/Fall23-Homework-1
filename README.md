@@ -7,7 +7,7 @@ Ensure that you have read the lessons on [cplusplus.com](https://cplusplus.com/d
 
 ## Procedures
 ### [Structure of a Program](https://cplusplus.com/doc/tutorial/program_structure/) Write the basic outline of a C++ Program (2pts)
-Write a prgoram that prints `Hello,TOOP!`. You may choose to use explicit scope qualifications or a declaration.
+Write a program that prints `Hello,TOOP!`. You may choose to use explicit scope qualifications or a declaration.
 ### [Variables and types](https://cplusplus.com/doc/tutorial/variables/) Initialize a few variables for later on (3 pts)
 Declare the following variables
 - A string called `name`. This is the name of the user.
